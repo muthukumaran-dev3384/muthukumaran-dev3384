@@ -1,7 +1,10 @@
 
 ### About 🙋🏻‍♂️
-Name = " MUTHUKUMARAN K"
-who_i_am = ['Web Developer', 'Python Beginner']
+name = "Muthukumaran K"
+who_i_am = ["Web Developer", "Python Beginner"]
+
+print(f"Name       : {name}")
+print("Profession : " + ", ".join(who_i_am))
 
 Country = "🇮🇳"
 
