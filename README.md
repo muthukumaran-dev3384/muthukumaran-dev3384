@@ -1,7 +1,7 @@
 
 ### About 🙋🏻‍♂️
 Name = " MUTHUKUMARAN K"
-who_i_am = ['Web developer']
+who_i_am = ['Web Developer', 'Python Beginner']
 
 Country = "🇮🇳"
 
@@ -53,9 +53,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
 
-<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" />
 
-<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/heroku/heroku.png" />
 
 <br /><br />
 
