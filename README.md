@@ -3,8 +3,7 @@
 name = "Muthukumaran K"
 who_i_am = ["Web Developer", "Python Beginner"]
 
-print(f"Name       : {name}")
-print("Profession : " + ", ".join(who_i_am))
+print(f"{name} | {', '.join(who_i_am)}")
 
 Country = "🇮🇳"
 
