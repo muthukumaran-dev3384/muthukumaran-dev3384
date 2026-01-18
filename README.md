@@ -1,9 +1,8 @@
 
 ### About 🙋🏻‍♂️
-name = "Muthukumaran K"
-who_i_am = ["Web Developer", "Python Beginner"]
+## 👋 Hi, I'm Muthukumaran K
 
-print(f"{name} | {', '.join(who_i_am)}")
+**Web Developer | Python Beginner**
 
 Country = "🇮🇳"
 
