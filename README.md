@@ -42,8 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 
-<img align="left" alt="AWS" width="26px" src="https://your-bucket-name.s3.amazonaws.com/aws-logo.png" />
-AWS
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 <br /><br />
 
